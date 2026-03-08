@@ -275,7 +275,7 @@ molecular-toxicity-prediction
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/molecular-toxicity-prediction
+git clone https://github.com/lucaskojo02/molecular-toxicity-prediction
 cd molecular-toxicity-prediction
 ```
 
